@@ -22,7 +22,7 @@ Resources to help you get started with Microsoft Cognitive Services
  Lots of resources available [here](https://azure.microsoft.com/en-au/solutions/), below is what I often emphasise for use at hackathons
  
  1. Build a web bot using [QnA maker](https://www.qnamaker.ai/)
- 2. Working with large datasets? Consider [Knowledge mining](https://azure.microsoft.com/en-au/solutions/knowledge-mining/#products) works with both structured and structured data.
+ 2. Working with large datasets? Consider [Knowledge mining](https://azure.microsoft.com/en-au/solutions/knowledge-mining/#products), works with both structured and unstructured data.
 
  ## Book recommendations
  1. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro.html) - This is the textbook for the Foundations of Data Science class at UC Berkeley. Really great examples that can be used as a firm data science foundation. See my [code repo](https://github.com/Fruitymo/learn-data-science-method) and download the Jupyter Notebook on the exercises, output included.
