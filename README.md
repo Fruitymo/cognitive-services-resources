@@ -29,3 +29,6 @@ Resources to help you get started with Microsoft Cognitive Services
 
 ## Wondering about the ethical applications of AI?
 Learn about [Microsoft AI Ethics](https://aka.ms/ai-ethics)
+
+##Feedback
+Please help me improve these resources by giving feedback on what was helpful or what you'd like me to share details on. Give a ⭐ on [Github](https://github.com/Fruitymo/cognitive-services-resources) if this has helped you in anyway. Thank you.
