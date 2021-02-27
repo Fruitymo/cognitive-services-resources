@@ -27,5 +27,5 @@ Resources to help you get started with Microsoft Cognitive Services
  ## Book recommendations
  1. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro.html) - This is the textbook for the Foundations of Data Science class at UC Berkeley. Really great examples that can be used as a firm data science foundation. See my [code repo](https://github.com/Fruitymo/learn-data-science-method) and download the Jupyter Notebook on the exercises, output included.
 
-## Privacy Guidelines
+## Wondering about the ethical applications of AI?
 Learn about [Microsoft AI Ethics](https://aka.ms/ai-ethics)
