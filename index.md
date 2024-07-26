@@ -23,6 +23,12 @@ Resources to help you get started with Microsoft Cognitive Services
  
  1. Build a web bot using [QnA maker](https://www.qnamaker.ai/)
  2. Working with large datasets? Consider [Knowledge mining](https://azure.microsoft.com/en-au/solutions/knowledge-mining/#products), works with both structured and unstructured data.
+ 3. You can learn more about serverless apps and static web apps with these resources:
+
+- Create serverless apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/create-serverless-applications/?WT.mc_id=javascript-6489-yolasors)
+- Beginner's Series to Serverless [videos](https://www.youtube.com/watch?v=MBrqtC7VpNc&list=PLlrxD0HtieHjU-gOB3ifnFaqikI2kGxUW&index=2)
+- Learn Azure Static Web Apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/azure-static-web-apps/?WT.mc_id=javascript-6489-yolasors)
+- Azure Static Web Apps Tips & Tricks [videos](https://www.youtube.com/watch?v=w-tLZjO6XMc&list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG&index=2)
 
 ## Book recommendations 📚
  1. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro.html) - This is the textbook for the Foundations of Data Science class at UC Berkeley. Really great examples that can be used as a firm data science foundation. See my [code repo](https://github.com/Fruitymo/learn-data-science-method) and download the Jupyter Notebook on the exercises, output included.
