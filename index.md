@@ -35,8 +35,8 @@ Azure AI Services brings AI within reach of every developer through a family of 
  2. [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf) - *Free ebook in pdf format* The Future Computed, Artificial Intelligence and its role in society By Microsoft.
 
 ## Wondering about the ethical applications of AI? 
-Learn about [Microsoft AI Ethics](https://aka.ms/ai-ethics)
-Learn about [Empowering responsible AI practices](https://www.microsoft.com/en-us/ai/responsible-ai)
+1. Learn about [Microsoft AI Ethics](https://aka.ms/ai-ethics)
+2. Learn about [Empowering responsible AI practices](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 #### Feedback
 Please help me improve these resources by giving feedback on what was helpful or what you'd like me to share details on. Give a ⭐ on [Github](https://github.com/Fruitymo/cognitive-services-resources) if this has helped you in anyway. Thank you.
