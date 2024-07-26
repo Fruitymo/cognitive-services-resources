@@ -1,13 +1,14 @@
-# Cognitive Services Resources
-Resources to help you get started with Microsoft Cognitive Services
+# Getting Started with Microsoft Azure AI Services
+Resources to help you get started with Microsoft Azure AI Services (_previously known as Cognitive Services_)
 
 ## What you will need
 - [x] Microsoft Azure Subscription [(create one for free)](https://azure.microsoft.com/en-us/free/)
+- [ ] GitHub Account [(create one for free)](https://github.com/)
 - [x] Teachable Spirit 🙂
 
 ## Background
 
- Azure Cognitive Services brings AI within reach of every developer through a family of APIs that don’t require machine-learning expertise. In this session, Lebogang will give you an overview of the many APIs available under the Microsoft Cognitive Services umbrella, and a demonstration of how Cognitive Services enables you to add advanced AI functionality, such as vision, speech, search, and text services with only a few lines of code for modern application development.
+Azure AI Services brings AI within reach of every developer through a family of APIs that don’t require machine-learning expertise. In this session, Lebogang will give you an overview of the many APIs available under the Microsoft Cognitive Services umbrella, and a demonstration of how Cognitive Services enables you to add advanced AI functionality, such as vision, speech, search, and text services with only a few lines of code for modern application development.
 
 ## Demos where Cognitive Services is applied
  *Play around with the below resources to see how you can use Cognitive Services in your applications*
@@ -23,8 +24,7 @@ Resources to help you get started with Microsoft Cognitive Services
  
  1. Build a web bot using [QnA maker](https://www.qnamaker.ai/)
  2. Working with large datasets? Consider [Knowledge mining](https://azure.microsoft.com/en-au/solutions/knowledge-mining/#products), works with both structured and unstructured data.
- 3. You can learn more about serverless apps and static web apps with these resources:
-
+ 3. Want to host your solution as a website? learn more about serverless apps and static web apps with these resources:
 - Create serverless apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/create-serverless-applications/?WT.mc_id=javascript-6489-yolasors)
 - Beginner's Series to Serverless [videos](https://www.youtube.com/watch?v=MBrqtC7VpNc&list=PLlrxD0HtieHjU-gOB3ifnFaqikI2kGxUW&index=2)
 - Learn Azure Static Web Apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/azure-static-web-apps/?WT.mc_id=javascript-6489-yolasors)
@@ -36,6 +36,7 @@ Resources to help you get started with Microsoft Cognitive Services
 
 ## Wondering about the ethical applications of AI? 
 Learn about [Microsoft AI Ethics](https://aka.ms/ai-ethics)
+Learn about [Empowering responsible AI practices](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 #### Feedback
 Please help me improve these resources by giving feedback on what was helpful or what you'd like me to share details on. Give a ⭐ on [Github](https://github.com/Fruitymo/cognitive-services-resources) if this has helped you in anyway. Thank you.
