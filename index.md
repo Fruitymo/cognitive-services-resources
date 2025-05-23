@@ -15,19 +15,19 @@ Azure AI Services brings AI within reach of every developer through a family of 
 
  1. [Face Detection Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/#demo) using Face API 
  2. Azure Media Services [Video Indexer](https://www.videoindexer.ai/media/library) *please adhear to privacy rules*
- 3. [Azure Machine Learning Studio (classic)](https://studio.azureml.net/) *(guest access available)* - Great Data Science Resource
+ 3. [Azure Machine Learning Studio (classic)](https://ml.azure.com/) *(guest access available)* - Great Data Science Resource
  3. Knowledge mining demo [Wolters Kluwer Document Demo](http://wolterskluwereap.azurewebsites.net/) by [Wolters Kluwer](https://www.wolterskluwer.com/en), a global provider of professional information, software solutions, and services for clinicians, nurses, accountants, lawyers, and tax, finance, audit, risk, compliance, and regulatory sectors.
- 4. Visit [AI Lab](https://www.ailab.microsoft.com/) to learn about breakthrough AI innovations
+ 4. Visit [AI Lab](https://aiotlabs.microsoft.com/en) to learn about breakthrough AI innovations
 
 ## Get Started
  Lots of azure solutions available [here](https://azure.microsoft.com/en-au/solutions/), below is what I often emphasise for use at hackathons
  
- 1. Build a web bot using [QnA maker](https://www.qnamaker.ai/)
+ 1. ~Build a web bot using [QnA maker](https://www.qnamaker.ai/)~ QnAMaker is now deprecated. We recommend migrating to Custom Question and Answering service (https://language.cognitive.azure.com/questionAnswering/projects)
  2. Working with large datasets? Consider [Knowledge mining](https://azure.microsoft.com/en-au/solutions/knowledge-mining/#products), works with both structured and unstructured data.
  3. Want to host your solution as a website? learn more about serverless apps and static web apps with these resources:
-- Create serverless apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/create-serverless-applications/?WT.mc_id=javascript-6489-yolasors)
+- Create serverless apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/create-serverless-applications/)
 - Beginner's Series to Serverless [videos](https://www.youtube.com/watch?v=MBrqtC7VpNc&list=PLlrxD0HtieHjU-gOB3ifnFaqikI2kGxUW&index=2)
-- Learn Azure Static Web Apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/azure-static-web-apps/?WT.mc_id=javascript-6489-yolasors)
+- Learn Azure Static Web Apps [tutorials](https://learn.microsoft.com/en-gb/training/paths/azure-static-web-apps/)
 - Azure Static Web Apps Tips & Tricks [videos](https://www.youtube.com/watch?v=w-tLZjO6XMc&list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG&index=2)
 
 ## Book recommendations 📚
@@ -35,8 +35,8 @@ Azure AI Services brings AI within reach of every developer through a family of 
  2. [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf) - *Free ebook in pdf format* The Future Computed, Artificial Intelligence and its role in society By Microsoft.
 
 ## Wondering about the ethical applications of AI? 
-1. Learn about [Microsoft AI Ethics](https://aka.ms/ai-ethics)
-2. Learn about [Empowering responsible AI practices](https://www.microsoft.com/en-us/ai/responsible-ai)
+1. Learn about [Empowering responsible AI practices](https://www.microsoft.com/en-us/ai/responsible-ai)
+2. Learn about [Microsoft Responsible AI in Practice - GitHub Repo for the Workshop](https://github.com/microsoft/responsible-ai-workshop)
 
 #### Feedback
 Please help me improve these resources by giving feedback on what was helpful or what you'd like me to share details on. Give a ⭐ on [Github](https://github.com/Fruitymo/cognitive-services-resources) if this has helped you in anyway. Thank you.
